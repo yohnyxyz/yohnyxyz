@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John (yohny)</h1>
-<h3 align="center">Frontend developer from Poland</h3>
+<h3 align="center">debil from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohnyxyz&label=Profile%20views&color=0e75b6&style=flat" alt="yohnyxyz" /> </p>
 
